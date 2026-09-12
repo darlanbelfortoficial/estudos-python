@@ -10,11 +10,9 @@ char_disponiveis = azmin+azmaius+char+numero
 
 gerar_senha = ""
 
-nome = "DARLAN"
-
 quanti = int(input("Informa o Tamanho da sua SENHA aleátoria por favor: "))
 
 for i in range(quanti):
-    escolhido = secrets.choice(nome)
+    escolhido = secrets.choice(char_disponiveis)
     gerar_senha = gerar_senha + escolhido
 print(gerar_senha)
