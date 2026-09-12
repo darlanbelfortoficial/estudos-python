@@ -22,9 +22,9 @@ while True:
         print("Resultado: ",num1+num2)
 
     elif operador == 2:
-        print("Resultado: ",num1+num2)
+        print("Resultado: ",num1-num2)
     elif operador == 3:
-        print("Resultado: ",num1+num2)
+        print("Resultado: ",num1*num2)
     elif operador == 4:
-        print("Resultado: ",num1+num2)
-print("Obrigado por usar nosso sistema!")
+        print("Resultado: ",num1/num2)
+print("Obrigado por usar nosso sistema ✅")
