@@ -16,3 +16,6 @@ for i in range(quanti):
     escolhido = secrets.choice(char_disponiveis)
     gerar_senha = gerar_senha + escolhido
 print(gerar_senha)
+
+print(gerar_senha," Senha Gerada com Sucesso ✅")
+print("Obrigado por usar no sistema!")
