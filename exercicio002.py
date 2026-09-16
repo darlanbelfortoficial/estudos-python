@@ -19,3 +19,5 @@ print(gerar_senha)
 
 print(gerar_senha," Senha Gerada com Sucesso ✅")
 print("Obrigado por usar no sistema!")
+
+print("Teste de Git Config do Terminal")
